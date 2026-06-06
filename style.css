@@ -10,7 +10,7 @@ body{
 }
 
 header{
-    background:#1e3a8a;
+    background:#8a1e6d;
     color:white;
     text-align:center;
     padding:30px;
@@ -80,7 +80,7 @@ header h1{
 }
 
 .delete-btn{
-    background:red;
+    background:rgb(153, 120, 174);
     color:white;
     border:none;
     padding:10px;
@@ -122,7 +122,7 @@ textarea{
 }
 
 form button{
-    background:#1e3a8a;
+    background:#c28bd1;
     color:white;
     border:none;
     padding:12px;
@@ -135,14 +135,14 @@ form button:hover{
 }
 
 #warning{
-    color:red;
+    color:rgb(74, 99, 145);
     text-align:center;
     margin-bottom:15px;
 }
 
 footer{
     margin-top:40px;
-    background:#1e3a8a;
+    background:#795579;
     color:white;
     text-align:center;
     padding:20px;
